@@ -1,0 +1,4 @@
+$env:CC="clang"
+$env:CXX="clang++"
+$env:CFLAGS="--target=x86_64-w64-mingw32"
+$env:CXXFLAGS="--target=x86_64-w64-mingw32"
